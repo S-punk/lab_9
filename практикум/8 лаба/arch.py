@@ -13,16 +13,16 @@ canvas.pack(pady=20)
 
 
 elements = {
-    "Кровать": "C:/Users/mrngu/Downloads/bed.png",
-    "Кухня": "C:/Users/mrngu/Downloads/kitchen.png",
-    "Стол": "C:/Users/mrngu/Downloads/table.png",
-    "Ванна": "C:/Users/mrngu/Downloads/vanna.png",
-    "Диван": "C:/Users/mrngu/Downloads/sofa.png",
-    "Туалет": "C:/Users/mrngu/Downloads/closet.png",
-    "Телевизор": "C:/Users/mrngu/Downloads/tv.png",
-    "Кухня2": "C:/Users/mrngu/Downloads/kitchen_b.png",
-    "Цветок": "C:/Users/mrngu/Downloads/green.png",
-    "Ванна2": "C:/Users/mrngu/Downloads/vanna_2.png",
+    "Кровать": "D:/лабы/4 курсы/практикум/8 лаба/bed.png",
+    "Кухня": "D:/лабы/4 курсы/практикум/8 лаба/kitchen.png",
+    "Стол": "D:/лабы/4 курсы/практикум/8 лаба/table.png",
+    "Ванна": "D:/лабы/4 курсы/практикум/8 лаба/vanna.png",
+    "Диван": "D:/лабы/4 курсы/практикум/8 лаба/sofa.png",
+    "Туалет": "D:/лабы/4 курсы/практикум/8 лаба/closet.png",
+    "Телевизор": "D:/лабы/4 курсы/практикум/8 лаба/tv.png",
+    "Кухня2": "D:/лабы/4 курсы/практикум/8 лаба/kitchen_b.png",
+    "Цветок": "D:/лабы/4 курсы/практикум/8 лаба/green.png",
+    "Ванна2": "D:/лабы/4 курсы/практикум/8 лаба/vanna_2.png",
 }
 
 # Загрузка изображений для элементов
